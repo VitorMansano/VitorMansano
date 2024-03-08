@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
 💼 I'm a trainee currently working on Pirelli - Campinas <br>
 📚 I'm on a Computer Science University <br>
 🤝 I'm looking to collaborate on Programming/Design companies <br>
